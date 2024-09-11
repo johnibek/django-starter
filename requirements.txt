@@ -6,3 +6,5 @@ django-htmx
 django-environ
 gunicorn
 whitenoise
+django-heroku
+dj-database-url
