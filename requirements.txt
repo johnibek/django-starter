@@ -6,4 +6,3 @@ django-htmx
 django-environ
 psycopg2
 gunicorn
-django-heroku
