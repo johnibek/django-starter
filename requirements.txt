@@ -1,0 +1,9 @@
+django
+pillow
+django-cleanup  # It is useful to clean up duplicate images
+django-allauth
+django-htmx
+django-environ
+psycopg2
+gunicorn
+django-heroku
